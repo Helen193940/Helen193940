@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Helen Zhu
+# Hi there 👋 I'm Helen Zhou
 
 🎓 IT Student  
 💻 Interested in Embedded Systems, Networking, Linux, and Full-Stack Development  
