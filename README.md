@@ -37,14 +37,6 @@
 
 ---
 
-## 📚 Currently Learning
-- ROS2
-- Raspberry Pi Development
-- Embedded Linux
-- Network Infrastructure & Security
-
----
-
 ## 📫 Contact
 - GitHub: github.com/Helen193940
 
